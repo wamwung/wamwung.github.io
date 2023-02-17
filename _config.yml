@@ -1,5 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes"
-skin: dark
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
 title: "wamwung"
 title_separator: ">"
 description: "Welcome to my website!"
